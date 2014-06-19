@@ -1,0 +1,25 @@
+body {
+background-color:#FF7B00;
+}
+p{
+	color:black;
+	font-family: "Narkisim";
+	font-size: 26px;
+	text-align:left
+}
+
+h1{font-family:Monotype Corsiva;
+text-align:center
+}
+h2{font-family:Monotype Corsiva;
+text-align:center
+}
+h3{font-family:Monotype Corsiva;
+text-align:center
+}
+img {display:block;
+margin-right:auto;
+margin-left:auto;
+}
+li{
+text-align:center
